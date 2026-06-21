@@ -2,7 +2,7 @@
 
 > A single-page generative web app that renders a living, breathing mycelial network. Click anywhere to plant a spore — a glowing thread germinates and grows. Built for **CodeStorm 2026 #2 — "Create Websites That Feel Alive."**
 
-This README documents what's actually implemented in `index.html` right now, what's stubbed out for later, and how to wire up the missing pieces (multiplayer + the AI Oracle).
+The AI Api and OpenMateo Api have to be added
 
 ---
 
